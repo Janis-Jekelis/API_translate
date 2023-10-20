@@ -2,14 +2,11 @@
     "name": "inerce/api_translate",
     "autoload": {
         "psr-4": {
-            "Inerce\\ApiTranslate\\": "src/"
+            "App\\": "app/"
         }
     },
-    "authors": [
-        {
-            "name": "Janis",
-            "email": "janisjekelis@gmail.com"
-        }
-    ],
-    "require": {}
+
+    "require": {
+        "statickidz/php-google-translate-free": "^1.2"
+    }
 }
