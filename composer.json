@@ -1,0 +1,15 @@
+{
+    "name": "inerce/api_translate",
+    "autoload": {
+        "psr-4": {
+            "Inerce\\ApiTranslate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Janis",
+            "email": "janisjekelis@gmail.com"
+        }
+    ],
+    "require": {}
+}
